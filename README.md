@@ -64,3 +64,9 @@ Command Line:
 ```
 
 This opens Jupyter notebook serving on <strong>localhost:8888</strong>
+
+## References
+
+*[Python Extensions for GEE](https://gist.github.com/tmcw/3987512)
+*[Python Extensions for GEE 2](https://gist.github.com/sgillies/1886782)
+*[Python Tutorial for GEE](http://www.macwright.org/2012/10/31/gis-with-python-shapely-fiona.html)
